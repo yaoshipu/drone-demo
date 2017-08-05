@@ -1,5 +1,7 @@
 # drone-demo
 
+[![Build Status](http://drone-server.ke-cs.dev.qiniu.io/api/badges/yaoshipu/drone-demo/status.svg)](http://drone-server.ke-cs.dev.qiniu.io/yaoshipu/drone-demo)
+
 ## User Guide
 
 ### Clone

@@ -1,5 +1,5 @@
 build:
-	go build -o demo demo.go
+	go build
 
 test:
 	go test -v
