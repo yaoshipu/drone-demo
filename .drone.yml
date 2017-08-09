@@ -5,6 +5,9 @@ clone:
 pipeline:
   build:
     image: index.qiniu.com/spock/golang:1.7
+    pull: true
     commands:
+      - source env.sh
+      - echo $TEST_ENV
       - make build
       - make test
